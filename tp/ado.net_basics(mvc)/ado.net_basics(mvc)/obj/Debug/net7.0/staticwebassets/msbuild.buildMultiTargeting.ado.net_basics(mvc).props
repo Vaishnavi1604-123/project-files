@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ado.net_basics(mvc).props" />
+</Project>
